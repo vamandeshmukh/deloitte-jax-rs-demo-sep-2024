@@ -10,6 +10,7 @@ import javax.ws.rs.core.MediaType;
 public class HelloResource {
 
 //	url -
+//	http://localhost:8090/deloitte-jax-rs-demo/ 
 //	http://localhost:8090/deloitte-jax-rs-demo/api/hello 
 
 	@GET
