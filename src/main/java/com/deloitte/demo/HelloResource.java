@@ -11,7 +11,6 @@ public class HelloResource {
 
 //	url -
 //	http://localhost:8090/deloitte-jax-rs-demo/ 
-//	http://localhost:8090/deloitte-jax-rs-demo/api/hello 
 
 	@GET
 	@Produces(MediaType.TEXT_PLAIN)
