@@ -23,6 +23,9 @@ public class EmployeeResource {
 
 //	implement these methods - 
 //	getEmployeeById
+//	@POST
+//	@Produces(MediaType.APPLICATION_JSON)
+//	@Consumes(MediaType.APPLICATION_JSON)
 //	addEmployee
 //	updateEmployee 
 //	deleteEmployee 
