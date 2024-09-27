@@ -19,8 +19,6 @@ import com.deloitte.demo.service.EmployeeService;
 public class EmployeeResource {
 
 	private EmployeeService empService =  new EmployeeService();
-//	private EmployeeService empService =  EmployeeService.getInstance();
-	
 
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
